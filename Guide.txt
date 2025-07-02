@@ -1,0 +1,23 @@
+Hello Sir,
+
+Here, I put such instructions to get details about the project.
+
+Here, I share such files of project where,
+
+I worked 1st on Dataset Development through Google API Live
+
+I developed dataset using below file for your reference:
+
+1) DATASET_Carbon_Footprint_Based_Route_Optimization_[ICBP_2_0] 
+
+Next, I developed a project using python and machine learning technique using below file for your reference:
+2) Carbon_Footprint_Based_Route_Optimization_[Project_ICBP_2_0]
+
+
+Next, the model is deployed using streamlit. the file for reference:
+3) app.py
+
+if you trying with line by line, I request to import necessary libraries and then run codes.
+
+Thank you
+
